@@ -26,6 +26,8 @@ forces pull the pencil in opposite and unpredictable directions, creating unique
 
 ![Alt text](https://github.com/malcela/howtomeasureaplanet/blob/main/ma-how_to_measure_a_planet-9.gif "Processing Simulation")
 
+![Alt text](https://github.com/malcela/howtomeasureaplanet/blob/main/ma-how_to_measure_a_planet-8compressed.gif "Machine Drawing close up")
+
 
 
 
