@@ -40,7 +40,9 @@ forces pull the pencil in opposite and unpredictable directions, creating unique
 *As a result, an imaginary topography of two given locations is drawn*
 
 
-##Video documentation
+## Video documentation
 **https://vimeo.com/manage/videos/753900856**
 
+
+## Research_inspiration
 
