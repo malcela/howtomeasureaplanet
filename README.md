@@ -37,7 +37,7 @@ forces pull the pencil in opposite and unpredictable directions, creating unique
 
 *Use the collected data and mix it with analogous data from elsewhere (wind, rain, geomagnetism, etc.) obtained with the help of a measuring-drawing machine.*
 
-*As a result, an imaginary topography of two given locations is drawn*
+*As a result, an imaginary topography of two given locations is drawn.*
 
 
 ## Video documentation
