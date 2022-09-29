@@ -13,3 +13,6 @@ Is it possible to connect two points on Earth based on their geographic characte
 I started by using a barometric sensor connected to an Arduino microcontroller. The sensor captures humidity, temperature, and pressure. However, with a simple formula, it also calculates the altitude of a given place, considering that atmospheric pressure decreases with increasing elevation.
 
 ![Alt text](https://github.com/malcela/howtomeasureaplanet/blob/main/ma-how_to_measure_a_planet-7.jpg "Data collection in Laufenburg, Switzerland")
+![Alt text](https://github.com/malcela/howtomeasureaplanet/blob/main/htmap_schematics.jpg "Process schematics")
+
+
