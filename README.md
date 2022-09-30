@@ -41,7 +41,7 @@ forces pull the pencil in opposite and unpredictable directions, creating unique
 
 
 ## Video documentation
-**https://vimeo.com/manage/videos/753900856**
+**[How to Measure a Planet video documentation](https://vimeo.com/manage/videos/753900856)**
 
 
 ## Research_inspiration
