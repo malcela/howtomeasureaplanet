@@ -39,6 +39,9 @@ forces pull the pencil in opposite and unpredictable directions, creating unique
 
 * - As a result, an imaginary topography of two given locations is drawn.
 
+## Results
+
+
 
 ## Video documentation
 **[How to Measure a Planet video documentation](https://vimeo.com/manage/videos/753900856)**
