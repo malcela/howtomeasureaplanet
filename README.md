@@ -31,18 +31,18 @@ forces pull the pencil in opposite and unpredictable directions, creating unique
 
 ## How to Measure a Planet
 
-* - Collect data in situ, from a given place.*
+* - Collect data in situ, from a given place.
 
-* - Write a software and let it process your collected data into a physics simulation.*
+* - Write a software and let it process your collected data into a physics simulation.
 
-* - Use the collected data and mix it with analogous data from elsewhere (wind, rain, geomagnetism, etc.) obtained with the help of a measuring-drawing machine.*
+* - Use the collected data and mix it with analogous data from elsewhere (wind, rain, geomagnetism, etc.) obtained with the help of a measuring-drawing machine.
 
-* - As a result, an imaginary topography of two given locations is drawn.*
+* - As a result, an imaginary topography of two given locations is drawn.
 
 
 ## Video documentation
 **[How to Measure a Planet video documentation](https://vimeo.com/manage/videos/753900856)**
 
 
-## Research_inspiration
-
+## Research & inspiration
+An early stage of the process and the research behind can be found on [The Dynamic Archive](https://thedynamicarchive.net/component/what-i-know-about-high-and-low)
