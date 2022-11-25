@@ -22,7 +22,7 @@ With the data collected, the next step was to create a device that embodied the 
 forces pull the pencil in opposite and unpredictable directions, creating unique marks on the canvas.
 
 
-![Alt text](https://github.com/malcela/howtomeasureaplanet/blob/main/htmap_schematics.jpg "Process schematics")
+![Alt text](https://github.com/malcela/howtomeasureaplanet/blob/main/htmap_schematics_V2.jpg "Process schematics")
 
 ![Alt text](https://github.com/malcela/howtomeasureaplanet/blob/main/ma-how_to_measure_a_planet-9.gif "Processing Simulation")
 
